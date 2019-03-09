@@ -14,10 +14,6 @@ Run `pip install -r requirements.txt` to install the required packages in the co
 
 Install additional packages by running `pip install package` and then `pip freeze > requirements.txt` to add it to the list of packages used in the project.
 
-## git
-
-Repository is cloned using https and [credentials manager](https://help.github.com/en/articles/caching-your-github-password-in-git) is used for ease of use and not to interfere with ssh config.
-
 ## Using Django
 
 [tutorial](https://docs.djangoproject.com/en/2.1/intro/tutorial01/)
